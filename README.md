@@ -1,3 +1,8 @@
+# Credits:
+Chat app: https://www.youtube.com/watch?v=zQyrwxMPm88&t=323s
+
+Dark theme application: https://www.youtube.com/watch?v=Uz35Qiia84g
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
