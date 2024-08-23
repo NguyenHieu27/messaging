@@ -1,3 +1,8 @@
+For educational purposes.
+
+# Demo link:
+https://react-messaging-hn27.netlify.app
+
 # Credits:
 Chat app: https://www.youtube.com/watch?v=zQyrwxMPm88&t=323s
 
